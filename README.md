@@ -2,8 +2,8 @@
 
 Here are main changes:
 
-* New eigen3
-* cmake paths
+* New eigen3 for c++ 20 compile...
+* change some paths in camke module for working as a external lib...
 
 ---
 
