@@ -1,9 +1,15 @@
 # This is a fork from [Colosseum](https://github.com/CodexLabsLLC/Colosseum)
 
-Here are main changes:
+## Here are main changes:
 
 * New eigen3 for c++ 20 compile...
 * change some paths in camke module for working as a external lib...
+* Notice: Original cmake/cmake-moudules/CommonSetup.cmake has some specific C++ flags that are not suitable for everyone, especially for someone who uses Airsim as an external lib. So I annotated them. If you need them(like when you use Airsim singly), you should undo them.
+
+## How to use it:
+
+1. clone this repository
+2. enter and execute the build.cmd/build.sh
 
 ---
 
