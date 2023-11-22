@@ -11,6 +11,10 @@
 1. clone this repository
 2. enter and execute the build.cmd/build.sh
 
+TODO:
+
+* deal with [problem](https://zhuanlan.zhihu.com/p/548879226#:~:text=%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%80%E4%B8%AAairsim%E8%87%AA%E8%BA%AB%E7%9A%84%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A6%82%E6%9E%9Cdepth.plannar%E7%9A%84%E5%88%86%E8%BE%A8%E7%8E%87%E5%BE%88%E5%A4%A7%EF%BC%8Cairsim%E8%8E%B7%E5%8F%96%E6%B7%B1%E5%BA%A6%E5%9B%BE%E7%9A%84%E6%97%B6%E9%97%B4%E4%BC%9A%E9%9D%9E%E5%B8%B8%E5%B0%B1%EF%BC%8C1000%E5%88%86%E8%BE%A8%E7%8E%87%E8%A6%81%E5%87%A0%E4%B9%8E1%E5%88%86%E5%8D%8A%E7%9A%84%E6%97%B6%E9%97%B4)
+
 ---
 
 Readme from Colosseum

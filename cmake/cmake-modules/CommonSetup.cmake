@@ -78,6 +78,7 @@ macro(CommonSetup)
 
         # set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS_DEBUG} /D_DEBUG /MDd /RTC1 /Gm /Od")
         # set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS_RELEASE} /MD /O2 /Oi /GL /Gm- /Gy /TP")
+
     ENDIF()
 
     ## TODO: we are not using Boost any more so below shouldn't be needed
